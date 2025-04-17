@@ -25,8 +25,8 @@ const Workout = () => {
     ],
     "MD+2": [
       { name: "Roma Landing ", sets: 3, reps: 8, videoUrl: "https://www.youtube.com/embed/oSYs2gCAPL8" },
-      { name: "Hip Thrust", sets: 3, reps: 8, videoUrl: "https://www.youtube.com/embed/z5QkVMvxRFY" },
-      { name: "Ball lunge ", sets: 3, reps: 12, videoUrl: "https://www.youtube.com/embed/Qt6izWAa-p0" },
+      { name: "Hip Thrust", sets: 3, reps: 8, videoUrl: "https://youtu.be/z5QkVMvxRFY" },
+      { name: "Ball lunge ", sets: 3, reps: 8, videoUrl: "https://www.youtube.com/embed/Qt6izWAa-p0" },
       { name: "Alternating Bosu Jump", sets: 3, reps: 10, videoUrl: "https://www.youtube.com/watch?v=Pk8RZGAl-8s" },
       { name: "Deep Squat Wagle", sets: 3, reps: "30 sec", videoUrl: "https://www.youtube.com/watch?v=JMMKI6DWS0k" },
       { name: "Hip Mobility", sets: 3, reps: "30 sec", videoUrl: "https://www.youtube.com/watch?v=qqsvz6EuEYA" },
